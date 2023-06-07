@@ -1,0 +1,13 @@
+/*
+Problem Description
+Write a function that takes in a string and returns it as an integer.
+
+Example 1:
+
+Input: str = "12345" 
+Output: 12345
+Explanation: 
+Constraints:
+
+1 <= strlen <= 9
+*/
